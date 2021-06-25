@@ -10,6 +10,9 @@
 <div align="center">
 	<div><h1>설문조사</h1></div>
 	<div><a href="researchList.do"> 설문목록 </a></div>
+	<div><a href="research/researchSearchForm.do">설문검색</a></div>
+	<div><a href="research/researchInputForm.do">설문조사 등록</a></div>
+	<div><a href="member/memberInputForm">사용자 등록</a></div>
 </div>
 </body>
 </html>

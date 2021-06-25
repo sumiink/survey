@@ -11,4 +11,5 @@ public interface ResearchService {
 	int researchInsert(ResearchVO vo);
 	int researchUpdate(ResearchVO vo);
 	int researchDelete(ResearchVO vo);
+	
 }

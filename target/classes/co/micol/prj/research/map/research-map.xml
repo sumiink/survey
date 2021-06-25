@@ -8,4 +8,9 @@
 	<update id="researchUpdate">
 	
 	</update>
+	
+	<select id="researchSelectList" resultType="co.micol.prj.research.vo.ResearchVO">
+		select * from research
+	</select>
+	
 </mapper>
